@@ -1,3 +1,6 @@
+#include <cmath>
+#include <iostream>
+
 class Solution {
 public:
     Solution(){};
